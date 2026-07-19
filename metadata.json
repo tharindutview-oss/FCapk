@@ -1,0 +1,6 @@
+{
+  "name": "Local Chat Hub",
+  "description": "A 100% offline local chat server and hub that runs over Wi-Fi Hotspots, allowing anyone to connect via a browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
